@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "title": "Learn Web Awesome List",
+    "description": "A collection of tagged links for those interested in learning to build stuff with the web platform",
+    "generatedBy": "generate.js",
+    "notes": [
+      "Regenerate with $ deno task generate"
+    ]
+  },
+  "links": [
+    {
+      "url": [
+        "https://www.quackit.com/css/grid/tutorial/"
+      ],
+      "tags": [
+        "#css",
+        "#css-grid",
+        "#css-layout",
+        "#beginner"
+      ]
+    }
+  ]
+}
